@@ -1,1 +1,9 @@
-Updated
+To run code:
+
+execute this command:
+
+python3 encrypt.py (number to shift by without parentheses) < message.txt > encrypted_message.txt
+
+In message.txt, the message intended to be encrypted should be present.
+
+In encrypted_message.txt, the encrypted message will appear. 
