@@ -26,5 +26,4 @@ def encrypt(msg,num):
 
     return final_out
   
-  
 encrypt(message,shift)
